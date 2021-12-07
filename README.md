@@ -5,7 +5,7 @@ Hey I'm Dom, welcome to my GitHub profile, I'm a software engineer who's passino
 - 🔭 I’m currently working on a Human Rights First project, and assiting the Instapaper team
 - 🌱 I’m currently learning implementation with Google Chrome Extensions
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to play guitar :guitar:
+- ⚡ Fun fact: I enjoy playing the guitar :guitar:
 
 <!--
 **dominthebox/dominthebox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
